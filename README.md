@@ -14,3 +14,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezachali&show_icons=true&theme=transparent&bg_color=00000000)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
