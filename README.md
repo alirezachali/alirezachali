@@ -7,7 +7,7 @@
 ## dev@alirezachali.ir
 
 # I am fully familiar with the following technologies:
-<ul>
+<ul style="display:inline-blog">
 <li><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50"></li>
 <li><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" height="50"></li>
 <li><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="100" height="100"></li>
