@@ -8,7 +8,7 @@
 
 # I am fully familiar with the following technologies:
 
-<div align="center">
+<ul style="display:inline-block">
 
 	<img width="100" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
 
@@ -88,7 +88,7 @@
 
 	<img width="100" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
 
-</div>
+</ul>
 
 
 
