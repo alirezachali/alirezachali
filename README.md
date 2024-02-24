@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hello+World+.+.+.)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=I+am+%3A+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=I+am+%3A+)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=70&color=E6F70C&vCenter=true&multiline=true&random=false&width=435&lines=Alireza+Chali)](https://git.io/typing-svg)
 
 ### Born in October|1996 in Iran.
