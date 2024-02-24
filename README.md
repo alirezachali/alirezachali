@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=70&color=E6F70C&vCenter=true&multiline=true&random=false&width=435&lines=Alireza+Chali)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Born+in+October%7C1996+in+Iran.)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=3000&height=300&lines=A+server+side+and+API+developer.;Language+is+not+important+to+me+and+I+can+work+with+almost+any+language+and+technology+in+the+web+area.+Of+course%2C+except+for+user+interface+design.)](https://git.io/typing-svg)<br>
-### If you have a project about Web applications, databases System and APIs, You can contact me by email below:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=3000&height=300&lines=If+you+have+a+project+about+Web+applications%2C+databases+System+and+APIs%2C+You+can+contact+me+by+email+below%3A)](https://git.io/typing-svg)
 ## dev@alirezachali.ir
 
 # I am fully familiar with the following technologies:
