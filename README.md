@@ -1,6 +1,9 @@
-# Hello World . . !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F7072D&random=false&width=435&lines=Hello+Guys)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=DFF71A&random=false&width=435&lines=Welcome+To+My+Profile+Page...!)](https://git.io/typing-svg)
-## I am Alireza Chali
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=57F71F&vCenter=true&multiline=true&random=false&width=435&lines=I+am+Alireza+Chali)](https://git.io/typing-svg)
+
 ### Born in October|1996 in Iran.
 ### A server side and API developer.
 ### Language is not important to me and I can work with almost any language and technology in the web area. Of course, except for user interface design.
