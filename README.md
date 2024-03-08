@@ -1,17 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hello+World+.+.+.)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&color=F71035&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=I+am+%3A+)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=70&color=E6F70C&vCenter=true&multiline=true&random=false&width=435&lines=Alireza+Chali)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Born+in+October%7C1996+in+Iran.)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=3000&height=300&lines=A+server+side+and+API+developer.;Language+is+not+important+to+me+and+I+can+work+with+almost+any+language+and+technology+in+the+web+area.+Of+course%2C+except+for+user+interface+design.)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=3000&pause=70&color=2E9A97&vCenter=true&multiline=true&repeat=false&random=false&width=3000&height=300&lines=If+you+have+a+project+about+Web+applications%2C+databases+System+and+APIs%2C+You+can+contact+me+by+email+below%3A)](https://git.io/typing-svg)
+
 ## dev@alirezachali.ir
 
-# I am fully familiar with the following technologies:
+##
 
 <ul style="display:inline-block">
 
-<img width="100" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/>
 <img width="100" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/>
 <img width="100" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" alt="gRPC" title="gRPC"/>
 <img width="100" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
