@@ -17,7 +17,7 @@
 
 
 
-## |    info@alirezachali.ir    |    www.alirezachali.ir    |    t.me/alirezachali    |
+## |    info@alirezachali.ir    |    www.alirezachali.ir    |    https://t.me/alirezachali    |
 
 
 ## My Skill
