@@ -15,11 +15,9 @@
 
 
 
-### Backend, Api and Database System Developer 
 
 
-## Connect to me :
-## dev@alirezachali.ir
+## Connect to me :    info@alirezachali.ir
 
 ## My Skill
 <ul style="display:inline-block">
