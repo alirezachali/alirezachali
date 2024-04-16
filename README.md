@@ -13,7 +13,7 @@
 
 
 ## |    info@alirezachali.ir    |    www.alirezachali.ir    |    https://t.me/alirezachali    |
-```
+```javascript
 
                          @@@@@@@@@@
                   @@@@@@@@@@@@@@@@@@@@@@@@
