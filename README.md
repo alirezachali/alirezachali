@@ -88,11 +88,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scorpian-my&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpian-my&layout=compact&theme=vision-friendly-dark)](https://github.com/Scorpian-my)
+
 <hr>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Scorpian-my&show_icons=true&count_private=true">
+
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
