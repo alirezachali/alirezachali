@@ -21,7 +21,7 @@
 
 
 
-[<img src="s://skills.syvixor.com/api/icons?i=telegram&perline=12&radius=30">](https://t.me/alireza_chali)
+[<img src="https://skills.syvixor.com/api/icons?i=telegram&perline=12&radius=30">](https://t.me/alireza_chali)
 
 
 
