@@ -20,7 +20,7 @@
 
 
 
-
+<p>
 [<img src="https://skills.syvixor.com/api/icons?i=telegram&perline=12&radius=30" title="t.me/alireza_chali">](https://t.me/alireza_chali)
 
 [<img src="https://skills.syvixor.com/api/icons?i=gitlab&perline=12&radius=30" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
@@ -34,7 +34,7 @@
 [<img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=30" title="linkedin.com/in/alirezachali">](https://linkedin.com/in/alirezachali)
 
 [<img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=30" title="mr.alirezachali@gmail.com">](mailto:mr.alirezachali@gmail.com)
-
+</p>
 
 
 
