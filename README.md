@@ -70,9 +70,7 @@
 
 
 ### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scorpian-my&theme=dark&background=000000)](https://git.io/streak-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=alirezachali&theme=gruvbox&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j&card_width=515&card_height=203)](https://git.io/streak-stats)
 
 <hr>
 
