@@ -19,7 +19,7 @@
 
 
 
-
+<p align="center"> My SocialMedia Profile: </p>
 
 [<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=50" width="129px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
 [<img src="https://skills.syvixor.com/api/icons?i=gitlab&radius=50" width="129px" height="80px" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
@@ -32,7 +32,8 @@
 
 
 
-
+<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
+<p align="center"> My Skills: </p>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
