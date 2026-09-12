@@ -32,6 +32,14 @@
 
 <img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 
+
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=alirezachali&theme=hacker&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cgit-log%2Cps%2Cexit)](https://github.com/alirezachali)
+
+
+<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
+
+
 <p align="center"> My Skills: </p>
 
 <div align="center">
