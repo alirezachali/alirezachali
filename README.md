@@ -1,16 +1,16 @@
 
 <p align="center"> My SocialMedia Profile: </p>
 
-[<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=50" width="125px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
-[<img src="https://skills.syvixor.com/api/icons?i=gitlab&radius=50" width="125px" height="80px" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
-[<img src="https://skills.syvixor.com/api/icons?i=x&perline=12&radius=50" width="125px" height="80px" title="x.com/alirezachali">](https://x.com/alirezachali)
-[<img src="https://skills.syvixor.com/api/icons?i=stackoverflow&perline=12&radius=50" width="125px" height="80px" title="stackoverflow.com/users/22770513/alireza-chali">](https://stackoverflow.com/users/22770513/alireza-chali)
-[<img src="https://skills.syvixor.com/api/icons?i=instagram&perline=12&radius=50" width="125px" height="80px" title="instagram.com/alirezachali.ir">](https://instagram.com/alirezachali.ir)
-[<img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=50" width="125px" height="80px" title="linkedin.com/in/alirezachali">](https://linkedin.com/in/alirezachali)
-[<img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=50" width="125px" height="80px" title="mr.alirezachali@gmail.com">](mailto:mr.alirezachali@gmail.com)
+[<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=50" width="120px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
+[<img src="https://skills.syvixor.com/api/icons?i=gitlab&radius=50" width="120px" height="80px" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
+[<img src="https://skills.syvixor.com/api/icons?i=x&perline=12&radius=50" width="120px" height="80px" title="x.com/alirezachali">](https://x.com/alirezachali)
+[<img src="https://skills.syvixor.com/api/icons?i=stackoverflow&perline=12&radius=50" width="120px" height="80px" title="stackoverflow.com/users/22770513/alireza-chali">](https://stackoverflow.com/users/22770513/alireza-chali)
+[<img src="https://skills.syvixor.com/api/icons?i=instagram&perline=12&radius=50" width="120px" height="80px" title="instagram.com/alirezachali.ir">](https://instagram.com/alirezachali.ir)
+[<img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=50" width="120px" height="80px" title="linkedin.com/in/alirezachali">](https://linkedin.com/in/alirezachali)
+[<img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=50" width="120px" height="80px" title="mr.alirezachali@gmail.com">](mailto:mr.alirezachali@gmail.com)
 
 
-<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
+
 
 
 
@@ -25,8 +25,6 @@
 #  ░░░░░   ░░░░░ ░░░░░ ░░░░░ ░░░░░      ░░░░░░   ░░░░░░░░░  ░░░░░░░░         ░░░░░░░░░  ░░░░ ░░░░░  ░░░░░░░░ ░░░░░ ░░░░░ 
 ```
 
-
-<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 
 
 
@@ -52,7 +50,7 @@
 	<code><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
-
+<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 
 
 ### 🔥 &nbsp; My Stats :
