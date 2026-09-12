@@ -21,7 +21,7 @@
 
 
 
-[<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=30" width="80px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
+[<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=30" style="margin-right:10px;" width="80px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
 [<img src="https://skills.syvixor.com/api/icons?i=gitlab&radius=30" width="80px" height="80px" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
 [<img src="https://skills.syvixor.com/api/icons?i=x&perline=12&radius=30" width="80px" height="80px" title="x.com/alirezachali">](https://x.com/alirezachali)
 [<img src="https://skills.syvixor.com/api/icons?i=stackoverflow&perline=12&radius=30" width="80px" height="80px" title="stackoverflow.com/users/22770513/alireza-chali">](https://stackoverflow.com/users/22770513/alireza-chali)
