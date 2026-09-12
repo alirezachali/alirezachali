@@ -1,5 +1,5 @@
 
-<p align="center"> My SocialMedia Profile: </p>
+<p align="center"> <h2>My SocialMedia Profile:</h2> </p>
 
 [<img src="https://skills.syvixor.com/api/icons?i=telegram&radius=50" width="115px" height="80px" title="t.me/alireza_chali">](https://t.me/alireza_chali)
 [<img src="https://skills.syvixor.com/api/icons?i=gitlab&radius=50" width="115px" height="80px" title="gitlab.com/alirezachali">](https://www.gitlab.com/alirezachali)
@@ -32,7 +32,8 @@
 
 
 
-<p align="center"> My Skills: </p>
+<p align="center"> 
+	<h2>My Skills:</h2> </p>
 
 <div align="center">
 	<code><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -53,8 +54,9 @@
 <img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 
 
-### 🔥 &nbsp; My Stats :
+
 <div align="center">
+	<h2>🔥 &nbsp; My Stats</h2>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false&borderRadius=42&Ring=0B2EDD">    <img  alt="alirezachali's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alirezachali?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false&borderRadius=42&Ring=0B2EDD" />  </a>
 </div>
 
