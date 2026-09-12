@@ -17,7 +17,7 @@
 
 <img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=telegram&perline=12&radius=30)
+[<img src="[http://www.google.com.au/images/nav_logo7.png](https://skills.syvixor.com/api/icons?i=telegram&perline=12&radius=30)">](https://t.me/alireza_chali)
 
 
 
