@@ -55,7 +55,7 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezachali?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezachali?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false&width=500)](https://git.io/awesome-stats-card)
 
 
 <img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
