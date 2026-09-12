@@ -1,5 +1,5 @@
 
-
+<img width="100%" src="https://github.com/kamranahmedse/github-pages-blog-action/blob/master/.github/assets/split.png"/>
 ```
 #     █████████   ████   ███                                                  █████████  █████                ████   ███ 
 #    ███░░░░░███ ░░███  ░░░                                                  ███░░░░░███░░███                ░░███  ░░░  
